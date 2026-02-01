@@ -82,3 +82,7 @@ function Proposals() {
   )
 }
 ```
+
+## Utility Functions
+
+Builder Utils provides reusable utilities for Nouns Builder projects. Import what you need and build faster.
